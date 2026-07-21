@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="susanoo-banner.webp" alt="SUSANOO Cloud Banner" width="800"/>
+  <img src="susanoo-banner.webp.webp" alt="SUSANOO Cloud Banner" width="800"/>
 </p>
 
 # 🔵 Cloud-Kill-Chain-Emulator
